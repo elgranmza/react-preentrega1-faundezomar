@@ -1,0 +1,23 @@
+
+.navbar {
+    color: #fff;
+    display:flex;
+    justify-content: space-around;
+    width:75%;
+
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-item {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.navbar-end {
+    display: flex;
+    align-items: center;
+}
