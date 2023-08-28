@@ -17,6 +17,10 @@ import Navbar from
 
 .App-header {
   background-color: #282c34;
+<<<<<<< HEAD
+=======
+  min-height: 100vh;
+>>>>>>> 9321eb74634610fbf840b133ad9db562a1ab7e9e
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 .cart-widget {
+=======
+/* Estilos para CartWidget.css */
+.cart-widget {
+    display: flex;
+    align-items: center;
+>>>>>>> 9321eb74634610fbf840b133ad9db562a1ab7e9e
     cursor: pointer;
     color: #333;
 }
@@ -7,7 +14,10 @@
 .cart-icon {
     font-size: 24px;
     margin-right: 5px;
+<<<<<<< HEAD
     display: flex;
+=======
+>>>>>>> 9321eb74634610fbf840b133ad9db562a1ab7e9e
 }
 
 .item-count {

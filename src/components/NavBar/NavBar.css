@@ -1,10 +1,16 @@
 
 .navbar {
+<<<<<<< HEAD
     color: #fff;
     display:flex;
     justify-content: space-around;
     width:75%;
 
+=======
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+>>>>>>> 9321eb74634610fbf840b133ad9db562a1ab7e9e
 }
 
 .navbar-brand {
